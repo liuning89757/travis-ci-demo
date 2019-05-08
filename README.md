@@ -1,3 +1,4 @@
+![travis](https://travis-ci.org/liuning89757/travis-ci-demo.svg?branch=master)
 This is a beginner tutorial of Travis CI for Node projects.
 
 ## How to use
